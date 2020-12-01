@@ -1,5 +1,5 @@
 ### Hello 👋
 
-😄 let listen my this week soog list:
+😄 listen to my this week soog list of top 5:
 
 {song_list}

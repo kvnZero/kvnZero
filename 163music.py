@@ -40,7 +40,7 @@ songs = songs[:5]
 i = 0
 text = ""
 for song in songs:
-    text += "%i. 🌈{%s}\n" % (i, song['song'])
+    text += "%i. 🌈%s\n" % (i, song['song'])
     i += 1
 
 with open('README-base.md', 'r', encoding='utf-8') as f:
@@ -49,7 +49,3 @@ with open('README-base.md', 'r', encoding='utf-8') as f:
 
     with open("README.md", 'w+', encoding='utf-8') as new_f:
         new_f.write(new_content)
-
-os.system("git add README.md")
-os.system("git commit -m \"update songs\"")
-os.system("git push")

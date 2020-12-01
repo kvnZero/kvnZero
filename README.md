@@ -1,6 +1,6 @@
 ### Hello 👋
 
-😄 let listen my this week soog list:
+😄 listen to my this week soog list of top 5:
 
 0. 🌈Follow The Coastline
 1. 🌈Behind the Clouds

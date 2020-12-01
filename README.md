@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-😄 listen to my this week soog list of top 5:
+😄 listen to my this week song list of top 5:
 
 0. 🌈Follow The Coastline - Masetti/The Jokerr
 1. 🌈Behind the Clouds - yaeow

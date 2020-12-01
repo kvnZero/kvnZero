@@ -26,6 +26,9 @@ jobs:
       run: |
         git config --global user.name "sohyunQVQ[bot]"
         git config --global user.email "abigeater@163.com"
+    - name: git pull erp
+      run: |
+        git pull
     - name: run srcipt
       run: |
         python 163music.py
@@ -33,5 +36,4 @@ jobs:
       run: |
         git add README.md
         git commit -m "Update README.md"
-        git pull
         git push

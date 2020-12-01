@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sohyunQVQ&show_icons=true&theme=cobalt&hide_title=true" />
+<img align="right" style="width: 400px;height: 300px;" src="https://github-readme-stats.vercel.app/api?username=sohyunQVQ&show_icons=true&theme=cobalt&hide_title=true&show_icons=false" />
 
 ### Hello 👋
 

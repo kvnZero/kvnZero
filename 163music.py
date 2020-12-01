@@ -18,7 +18,7 @@ def get_week():
     weekData = json_data['weekData']
     song_data = []
     for item in weekData:
-        song_data.append({"song":item['song']['name'], "score": item['score']})
+        song_data.append({"song":item['song']['name']+" - "+item['ar'][0]['name'], "score": item['score']})
     return song_data
 
 def get_all():
@@ -32,7 +32,7 @@ def get_all():
     allData = json_data['allData']
     song_data = []
     for item in allData:
-        song_data.append({"song":item['song']['name'], "score": item['score']})
+        song_data.append({"song":item['song']['name']+" - "+item['ar'][0]['name'], "score": item['score']})
     return song_data
 
 songs = get_week()

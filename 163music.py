@@ -40,8 +40,8 @@ def getSongData(song_type = 1):
     result=json.loads(res.text,strict=False)
     if song_type == 0:
         song_datas = result['allData']
-    else if song_type == 1:
-        song_datas = json_data['weekData']
+    elif song_type == 1:
+        song_datas = result['weekData']
     song_data = []
     for item in song_datas:
         ararr = []
@@ -50,7 +50,7 @@ def getSongData(song_type = 1):
         song_data.append({"song":item['song']['name']+" - "+'/'.join(ararr), "score": item['score']})
     return song_data
 
-songs = get_week()
+songs = getSongData()
 songs = songs[:5]
 i = 0
 text = ""

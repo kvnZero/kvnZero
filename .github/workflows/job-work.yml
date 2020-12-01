@@ -33,7 +33,7 @@ jobs:
         git pull
     - name: run srcipt
       run: |
-        python 163music.py
+        python 163music.py 136164194 0
     - name: commit to rep
       run: |
         git add README.md

@@ -1,6 +1,6 @@
 #coding=utf-8
 
-import requests,base64,json,hashlib
+import requests,base64,json,hashlib,sys
 from Crypto.Cipher import AES
 
 headers = {
@@ -29,10 +29,10 @@ def md5(str):
 def protect(text):
     return {"params":encrypt('TA3YiYCfY2dDJQgg',encrypt('0CoJUm6Qyw8W8jud',text)),"encSecKey":"84ca47bca10bad09a6b04c5c927ef077d9b9f1e37098aa3eac6ea70eb59df0aa28b691b7e75e4f1f9831754919ea784c8f74fbfadf2898b0be17849fd656060162857830e241aba44991601f137624094c114ea8d17bce815b0cd4e5b8e2fbaba978c6d1d14dc3d1faf852bdd28818031ccdaaa13a6018e1024e2aae98844210"}
 
-def getSongData(song_type = 1):
+def getSongData(uid, song_type = 1):
     url = "https://music.163.com/weapi/v1/play/record?csrf_token="
     data = {
-        'uid': '136164194', #用户uid 可以到网页版搜索下用户进入到主页获取
+        'uid': uid, #用户uid 可以到网页版搜索下用户进入到主页获取
         'type': song_type, #1最近一周 0所有时间
     }
     session = requests.session()
@@ -50,7 +50,19 @@ def getSongData(song_type = 1):
         song_data.append({"song":item['song']['name']+" - "+'/'.join(ararr), "score": item['score']})
     return song_data
 
-songs = getSongData()
+argv = sys.argv
+uid  = '136164194'
+song_type = 0
+del argv[0]
+if len(argv)>=1:
+    uid = argv[0]
+    del argv[0]
+
+if len(argv)>=1:
+    song_type = argv[0]
+    del argv[0]
+
+songs = getSongData(uid=uid, song_type=song_type)
 songs = songs[:5]
 i = 0
 text = ""

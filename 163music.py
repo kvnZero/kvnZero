@@ -1,41 +1,53 @@
 #coding=utf-8
 
-import requests
-import json
-import os
+import requests,base64,json,hashlib
+from Crypto.Cipher import AES
 
-url = "https://music.163.com/weapi/v1/play/record?csrf_token="
+headers = {
+        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36',
+        "Referer" : "http://music.163.com/",
+        "Accept-Encoding" : "gzip, deflate",
+}
 
-def get_week():
+def encrypt(key, text):
+    cryptor = AES.new(key.encode('utf8'), AES.MODE_CBC, b'0102030405060708')
+    length = 16                    
+    count = len(text.encode('utf-8'))     
+    if (count % length != 0):
+        add = length - (count % length)
+    else:
+        add = 16             
+    pad = chr(add)
+    text1 = text + (pad * add)    
+    ciphertext = cryptor.encrypt(text1.encode('utf8'))          
+    cryptedStr = str(base64.b64encode(ciphertext),encoding='utf-8')
+    return cryptedStr
+def md5(str):
+    hl = hashlib.md5()
+    hl.update(str.encode(encoding='utf-8'))
+    return hl.hexdigest()
+def protect(text):
+    return {"params":encrypt('TA3YiYCfY2dDJQgg',encrypt('0CoJUm6Qyw8W8jud',text)),"encSecKey":"84ca47bca10bad09a6b04c5c927ef077d9b9f1e37098aa3eac6ea70eb59df0aa28b691b7e75e4f1f9831754919ea784c8f74fbfadf2898b0be17849fd656060162857830e241aba44991601f137624094c114ea8d17bce815b0cd4e5b8e2fbaba978c6d1d14dc3d1faf852bdd28818031ccdaaa13a6018e1024e2aae98844210"}
+
+def getSongData(song_type = 1):
+    url = "https://music.163.com/weapi/v1/play/record?csrf_token="
     data = {
-        "params": "e1Qer4IFS6TIQuUOU6cis87pNDpZCIJ1+4ESW9AiQ7kdAgP8hWIhfTsBcChN8GS2CvbGHo6DBDGenp2VldCNZXvBWc1VS1nAbqutKQ8W5bp8tDq7nmA0I2wOTQ4NQySyC4T5UIpwXFD3qWMLXv+YbXeYlZiS5K8D1FbB/P2g55NQ1y3gAZKOCMJxu/YFT/0G",
-        "encSecKey": "ab1f1594074b3cacf010d2991440bb7ae79ee9419473c66ff7360c0f146a9a3fceb972a2e3b92f8190df0f312021426e9f48682c15e010103a0a2d6218361173af56d059fcaaee83e20dae4d845bf3aae7030425933865392bb4abc8bec8753020f4210b5010d369fc472182a22d478c26a244705a659be178982118d654169b"
+        'uid': '136164194', #用户uid 可以到网页版搜索下用户进入到主页获取
+        'type': song_type, #1最近一周 0所有时间
     }
-
     session = requests.session()
-    result = session.post(url, data).text;
-    json_data = json.loads(result.encode("gbk", 'ignore').decode("gbk", "ignore"))
-    weekData = json_data['weekData']
+    res=session.post(url,protect(json.dumps(data)),headers=headers)
+    result=json.loads(res.text,strict=False)
+    if song_type == 0:
+        song_datas = result['allData']
+    else if song_type == 1:
+        song_datas = json_data['weekData']
     song_data = []
-    for item in weekData:
+    for item in song_datas:
         ararr = []
         for ar in item['song']['ar']:
             ararr.append(ar['name'])
         song_data.append({"song":item['song']['name']+" - "+'/'.join(ararr), "score": item['score']})
-    return song_data
-
-def get_all():
-    data = {
-        "params": "mK1E/TjrYhVctq3ZDJhUCPWsDppFOFuHcugo/EgTYiSVZiGBLEc9md6df0kTZXx8KuuBJ/if8SZRuU/nk4QJ25ZnT+p1XrULkRJt0X2FUjoXHaWXZ+MoWyjFv2PF8hneqFNxqn/xiJ4h1Nm9+xfKFv+KON7hXwP1IdnNVRLWEKVLIwgDrerEe1ITiX16DUMi",
-        "encSecKey": "2c9b9ece93a9fdec68f6fdea8c5793a78b8272bec589e859b610696826fae1cb6cbfb65d10cd60b8c67876ee3624e49c93c11aebe37659d75e1c37960c0d4aa8e4ed370da991d1f7c886eb1eb4388512fb16726fc30af2a1d14dee1c32cbf86cea8997f91462bbf6b399c02f2357b129336413cb1265bd639be77b7e57fbc73c"
-    }
-    session = requests.session()
-    result = session.post(url, data).text;
-    json_data = json.loads(result.encode("gbk", 'ignore').decode("gbk", "ignore"))
-    allData = json_data['allData']
-    song_data = []
-    for item in allData:
-        song_data.append({"song":item['song']['name']+" - "+item['ar'][0]['name'], "score": item['score']})
     return song_data
 
 songs = get_week()
@@ -49,6 +61,5 @@ for song in songs:
 with open('README-base.md', 'r', encoding='utf-8') as f:
     content = f.read()
     new_content = content.replace("{song_list}" , text)
-
     with open("README.md", 'w+', encoding='utf-8') as new_f:
         new_f.write(new_content)

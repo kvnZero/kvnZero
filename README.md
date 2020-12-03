@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Behind the Clouds - yaeow
+0. 🌈Phone - MNEK
 1. 🌈Mood - 24kGoldn/iann dior
-2. 🌈Follow The Coastline - Masetti/The Jokerr
-3. 🌈Summer on You - PRETTYMUCH
-4. 🌈Savage Love (Laxed - Siren Beat) - Jawsh 685/Jason Derulo
+2. 🌈Behind the Clouds - yaeow
+3. 🌈Follow The Coastline - Masetti/The Jokerr
+4. 🌈Summer on You - PRETTYMUCH
 

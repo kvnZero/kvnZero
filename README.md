@@ -6,7 +6,7 @@
 
 0. 🌈Girl - Alexander 23
 1. 🌈The Entertainment's Here - AJR
-2. 🌈Girlfriend - Charlie Puth
-3. 🌈Sold My Soul - Blitz Kids
-4. 🌈HOLIDAY - Lil Nas X
+2. 🌈Sold My Soul - Blitz Kids
+3. 🌈HOLIDAY - Lil Nas X
+4. 🌈Mood - 24kGoldn/iann dior
 

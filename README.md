@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Girl - Alexander 23
-1. 🌈The Entertainment's Here - AJR
-2. 🌈Sold My Soul - Blitz Kids
+0. 🌈The Entertainment's Here - AJR
+1. 🌈Sold My Soul - Blitz Kids
+2. 🌈Girl - Alexander 23
 3. 🌈HOLIDAY - Lil Nas X
-4. 🌈Mood - 24kGoldn/iann dior
+4. 🌈Girlfriend - Charlie Puth
 

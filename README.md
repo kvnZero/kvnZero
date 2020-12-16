@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈The Entertainment's Here - AJR
-1. 🌈Sold My Soul - Blitz Kids
-2. 🌈Girl - Alexander 23
-3. 🌈HOLIDAY - Lil Nas X
-4. 🌈Girlfriend - Charlie Puth
+0. 🌈Girl - Alexander 23
+1. 🌈The Entertainment's Here - AJR
+2. 🌈Sold My Soul - Blitz Kids
+3. 🌈Girlfriend - Charlie Puth
+4. 🌈Savage Love (Laxed - Siren Beat) - Jawsh 685/Jason Derulo
 

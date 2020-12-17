@@ -7,6 +7,6 @@
 0. 🌈Girl - Alexander 23
 1. 🌈The Entertainment's Here - AJR
 2. 🌈Sold My Soul - Blitz Kids
-3. 🌈Girlfriend - Charlie Puth
-4. 🌈Savage Love (Laxed - Siren Beat) - Jawsh 685/Jason Derulo
+3. 🌈Never Not - Lauv
+4. 🌈Phone - MNEK
 

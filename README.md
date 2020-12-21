@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Never Not - Lauv
-1. 🌈HOLIDAY - Lil Nas X
-2. 🌈Girl - Alexander 23
-3. 🌈Panini - Lil Nas X
+1. 🌈Girl - Alexander 23
+2. 🌈HOLIDAY - Lil Nas X
+3. 🌈The Entertainment's Here - AJR
 4. 🌈Sold My Soul - Blitz Kids
 

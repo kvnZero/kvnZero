@@ -7,6 +7,6 @@
 0. 🌈Never Not - Lauv
 1. 🌈Girl - Alexander 23
 2. 🌈HOLIDAY - Lil Nas X
-3. 🌈The Entertainment's Here - AJR
-4. 🌈Sold My Soul - Blitz Kids
+3. 🌈Girlfriend - Charlie Puth
+4. 🌈Panini - Lil Nas X
 

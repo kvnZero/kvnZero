@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Never Not - Lauv
-1. 🌈HOLIDAY - Lil Nas X
-2. 🌈Girlfriend - Charlie Puth
-3. 🌈Girl - Alexander 23
-4. 🌈Panini - Lil Nas X
+1. 🌈Panini - Lil Nas X
+2. 🌈The Entertainment's Here - AJR
+3. 🌈HOLIDAY - Lil Nas X
+4. 🌈Girlfriend - Charlie Puth
 

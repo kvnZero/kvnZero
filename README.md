@@ -6,7 +6,7 @@
 
 0. 🌈Never Not - Lauv
 1. 🌈The Entertainment's Here - AJR
-2. 🌈Girl - Alexander 23
-3. 🌈Panini - Lil Nas X
-4. 🌈Sold My Soul - Blitz Kids
+2. 🌈Sold My Soul - Blitz Kids
+3. 🌈Mood - 24kGoldn/iann dior
+4. 🌈Girl - Alexander 23
 

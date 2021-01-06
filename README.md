@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Panini - Lil Nas X
-1. 🌈Girl - Alexander 23
-2. 🌈如果当时2020 - 许嵩/朱婷婷
-3. 🌈going out - ROLE MODEL
-4. 🌈Watermelon Sugar - Harry Styles
+0. 🌈going out - ROLE MODEL
+1. 🌈Panini - Lil Nas X
+2. 🌈Never Not - Lauv
+3. 🌈Girl - Alexander 23
+4. 🌈The Entertainment's Here - AJR
 

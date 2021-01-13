@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-1. 🌈going out - ROLE MODEL
-2. 🌈Never Not - Lauv
-3. 🌈Girl - Alexander 23
-4. 🌈Sold My Soul - Blitz Kids
+0. 🌈The Entertainment's Here - AJR
+1. 🌈Never Not - Lauv
+2. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
+3. 🌈going out - ROLE MODEL
+4. 🌈Girl - Alexander 23
 

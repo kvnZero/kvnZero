@@ -7,6 +7,6 @@
 0. 🌈The Entertainment's Here - AJR
 1. 🌈Never Not - Lauv
 2. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-3. 🌈going out - ROLE MODEL
-4. 🌈Girl - Alexander 23
+3. 🌈Sold My Soul - Blitz Kids
+4. 🌈going out - ROLE MODEL
 

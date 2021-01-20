@@ -6,7 +6,7 @@
 
 0. 🌈Never Not - Lauv
 1. 🌈The Entertainment's Here - AJR
-2. 🌈Sold My Soul - Blitz Kids
-3. 🌈going out - ROLE MODEL
-4. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
+2. 🌈浪 - 许嵩
+3. 🌈Sold My Soul - Blitz Kids
+4. 🌈going out - ROLE MODEL
 

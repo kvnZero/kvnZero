@@ -6,7 +6,7 @@
 
 0. 🌈浪 - 许嵩
 1. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-2. 🌈Sold My Soul - Blitz Kids
+2. 🌈我乐意 - 许嵩
 3. 🌈going out - ROLE MODEL
-4. 🌈我乐意 - 许嵩
+4. 🌈More Than Friends - Mokita
 

@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Savage Love (Laxed - Siren Beat) - Jawsh 685/Jason Derulo
-1. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-2. 🌈浪 - 许嵩
-3. 🌈Sold My Soul - Blitz Kids
-4. 🌈going out - ROLE MODEL
+0. 🌈going out - ROLE MODEL
+1. 🌈you broke me first - Tate McRae
+2. 🌈HOLIDAY - Lil Nas X
+3. 🌈Savage Love (Laxed - Siren Beat) - Jawsh 685/Jason Derulo
+4. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
 

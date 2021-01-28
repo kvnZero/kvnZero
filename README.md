@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈going out - ROLE MODEL
-1. 🌈you broke me first - Tate McRae
-2. 🌈HOLIDAY - Lil Nas X
-3. 🌈More Than Friends - Mokita
-4. 🌈Sold My Soul - Blitz Kids
+0. 🌈HOLIDAY - Lil Nas X
+1. 🌈going out - ROLE MODEL
+2. 🌈you broke me first - Tate McRae
+3. 🌈Sold My Soul - Blitz Kids
+4. 🌈Girlfriend - Charlie Puth
 

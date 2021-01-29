@@ -6,7 +6,7 @@
 
 0. 🌈HOLIDAY - Lil Nas X
 1. 🌈going out - ROLE MODEL
-2. 🌈you broke me first - Tate McRae
-3. 🌈Sold My Soul - Blitz Kids
-4. 🌈Girlfriend - Charlie Puth
+2. 🌈Girlfriend - Charlie Puth
+3. 🌈you broke me first - Tate McRae
+4. 🌈Sold My Soul - Blitz Kids
 

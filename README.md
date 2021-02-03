@@ -6,7 +6,7 @@
 
 0. 🌈Sold My Soul - Blitz Kids
 1. 🌈going out - ROLE MODEL
-2. 🌈Long Road - Blitz Kids
-3. 🌈甜甜的 - 周杰伦
-4. 🌈HOLIDAY - Lil Nas X
+2. 🌈HOLIDAY - Lil Nas X
+3. 🌈Girlfriend - Charlie Puth
+4. 🌈More Than Friends - Mokita
 

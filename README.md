@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Sold My Soul - Blitz Kids
-1. 🌈Girlfriend - Charlie Puth
-2. 🌈HOLIDAY - Lil Nas X
+1. 🌈More Than Friends - Mokita
+2. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
 3. 🌈going out - ROLE MODEL
-4. 🌈More Than Friends - Mokita
+4. 🌈Girlfriend - Charlie Puth
 

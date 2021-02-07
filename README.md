@@ -6,7 +6,7 @@
 
 0. 🌈Sold My Soul - Blitz Kids
 1. 🌈going out - ROLE MODEL
-2. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-3. 🌈Girlfriend - Charlie Puth
-4. 🌈Never Not - Lauv
+2. 🌈Girlfriend - Charlie Puth
+3. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
+4. 🌈HOLIDAY - Lil Nas X
 

@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈going out - ROLE MODEL
-1. 🌈Never Not - Lauv
-2. 🌈Save Your Tears - The Weeknd
-3. 🌈More Than Friends - Mokita
-4. 🌈星座书上 - 许嵩
+0. 🌈Save Your Tears - The Weeknd
+1. 🌈Body - Megan thee Stallion
+2. 🌈Therefore I Am - Billie Eilish
+3. 🌈Whoopty - CJ
+4. 🌈Lonely - Justin Bieber/Benny Blanco
 

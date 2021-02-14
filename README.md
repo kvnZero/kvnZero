@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈单人旅途 - 许嵩
-1. 🌈Body - Megan thee Stallion
-2. 🌈Whoopty - CJ
-3. 🌈7 Summers - Morgan Wallen
-4. 🌈What You Know Bout Love - Pop Smoke
+0. 🌈阴天快乐 - 陈奕迅
+1. 🌈我乐意 - 许嵩
+2. 🌈梧桐灯 - 许嵩
+3. 🌈你瞒我瞒 - 陈柏宇
+4. 🌈星座书上 - 许嵩
 

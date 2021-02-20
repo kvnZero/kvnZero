@@ -6,7 +6,7 @@
 
 0. 🌈追 - 张国荣
 1. 🌈我乐意 - 许嵩
-2. 🌈梧桐灯 - 许嵩
-3. 🌈阴天快乐 - 陈奕迅
-4. 🌈Sold My Soul - Blitz Kids
+2. 🌈Sold My Soul - Blitz Kids
+3. 🌈HOLIDAY - Lil Nas X
+4. 🌈More Than Friends - Mokita
 

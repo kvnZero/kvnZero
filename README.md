@@ -8,5 +8,5 @@
 1. 🌈Sold My Soul - Blitz Kids
 2. 🌈Girl - Alexander 23
 3. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-4. 🌈HOLIDAY - Lil Nas X
+4. 🌈The Entertainment's Here - AJR
 

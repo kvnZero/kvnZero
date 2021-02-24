@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈More Than Friends - Mokita
-1. 🌈Sold My Soul - Blitz Kids
-2. 🌈Girl - Alexander 23
-3. 🌈I Think I'm OKAY - Machine Gun Kelly/Yungblud/Travis Barker
-4. 🌈The Entertainment's Here - AJR
+1. 🌈Way Less Sad - AJR
+2. 🌈Sold My Soul - Blitz Kids
+3. 🌈Holy - Justin Bieber/Chance the Rapper
+4. 🌈Mood - 24kGoldn/iann dior
 

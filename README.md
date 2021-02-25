@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈More Than Friends - Mokita
-1. 🌈Way Less Sad - AJR
-2. 🌈Sold My Soul - Blitz Kids
-3. 🌈Holy - Justin Bieber/Chance the Rapper
-4. 🌈Mood - 24kGoldn/iann dior
+0. 🌈Way Less Sad - AJR
+1. 🌈More Than Friends - Mokita
+2. 🌈Holy - Justin Bieber/Chance the Rapper
+3. 🌈Mood - 24kGoldn/iann dior
+4. 🌈Everything's Good - Phil Good
 

@@ -6,7 +6,7 @@
 
 0. 🌈Way Less Sad - AJR
 1. 🌈More Than Friends - Mokita
-2. 🌈Holy - Justin Bieber/Chance the Rapper
-3. 🌈Mood - 24kGoldn/iann dior
-4. 🌈Everything's Good - Phil Good
+2. 🌈Hometown - Sheppard
+3. 🌈Lonely - Justin Bieber/Benny Blanco
+4. 🌈Holy - Justin Bieber/Chance the Rapper
 

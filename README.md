@@ -6,7 +6,7 @@
 
 0. 🌈Way Less Sad - AJR
 1. 🌈Lonely - Justin Bieber/Benny Blanco
-2. 🌈Holy - Justin Bieber/Chance the Rapper
-3. 🌈Mood - 24kGoldn/iann dior
-4. 🌈More Than Friends - Mokita
+2. 🌈Watermelon Sugar - Harry Styles
+3. 🌈More Than Friends - Mokita
+4. 🌈Underdog - Alicia Keys
 

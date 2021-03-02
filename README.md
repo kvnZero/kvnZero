@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Way Less Sad - AJR
-1. 🌈Lonely - Justin Bieber/Benny Blanco
-2. 🌈Watermelon Sugar - Harry Styles
-3. 🌈More Than Friends - Mokita
-4. 🌈Underdog - Alicia Keys
+1. 🌈Mood - 24kGoldn/iann dior
+2. 🌈More Than Friends - Mokita
+3. 🌈Lonely - Justin Bieber/Benny Blanco
+4. 🌈What You Know Bout Love - Pop Smoke
 

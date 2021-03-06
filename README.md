@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Way Less Sad - AJR
-1. 🌈Girlfriend - Charlie Puth
-2. 🌈More Than Friends - Mokita
-3. 🌈Best Friend - Rex Orange County
-4. 🌈Serpents - Neck Deep
+0. 🌈Serpents - Neck Deep
+1. 🌈Resilient - Masetti
+2. 🌈Best Friend - Rex Orange County
+3. 🌈Sold My Soul - Blitz Kids
+4. 🌈Something I Need - OneRepublic
 

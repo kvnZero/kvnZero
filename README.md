@@ -6,7 +6,7 @@
 
 0. 🌈Best Friend - Rex Orange County
 1. 🌈Serpents - Neck Deep
-2. 🌈Way Less Sad - AJR
-3. 🌈Save Your Tears - The Weeknd
-4. 🌈The Cut That Always Bleeds - Conan Gray
+2. 🌈Save Your Tears - The Weeknd
+3. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
+4. 🌈Way Less Sad - AJR
 

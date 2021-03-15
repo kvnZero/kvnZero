@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Best Friend - Rex Orange County
-1. 🌈Serpents - Neck Deep
-2. 🌈Save Your Tears - The Weeknd
-3. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
-4. 🌈Way Less Sad - AJR
+0. 🌈Serpents - Neck Deep
+1. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
+2. 🌈Best Friend - Rex Orange County
+3. 🌈Way Less Sad - AJR
+4. 🌈Save Your Tears - The Weeknd
 

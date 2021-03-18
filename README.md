@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
-1. 🌈Best Friend - Rex Orange County
-2. 🌈Serpents - Neck Deep
-3. 🌈Run For Cover - Blitz Kids
-4. 🌈Save Your Tears - The Weeknd
+1. 🌈Run For Cover - Blitz Kids
+2. 🌈Save Your Tears - The Weeknd
+3. 🌈You should be sad - Halsey
+4. 🌈Best Friend - Rex Orange County
 

@@ -6,7 +6,7 @@
 
 0. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
 1. 🌈Run For Cover - Blitz Kids
-2. 🌈Save Your Tears - The Weeknd
-3. 🌈You should be sad - Halsey
-4. 🌈Best Friend - Rex Orange County
+2. 🌈Best Friend - Rex Orange County
+3. 🌈Save Your Tears - The Weeknd
+4. 🌈You should be sad - Halsey
 

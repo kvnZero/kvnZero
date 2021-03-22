@@ -6,7 +6,7 @@
 
 0. 🌈Run For Cover - Blitz Kids
 1. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
-2. 🌈Best Friend - Rex Orange County
-3. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
-4. 🌈Save Your Tears - The Weeknd
+2. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
+3. 🌈You should be sad - Halsey
+4. 🌈Best Friend - Rex Orange County
 

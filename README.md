@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
-1. 🌈Run For Cover - Blitz Kids
-2. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
-3. 🌈Anyone - Justin Bieber
-4. 🌈You should be sad - Halsey
+0. 🌈Anyone - Justin Bieber
+1. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
+2. 🌈Run For Cover - Blitz Kids
+3. 🌈Follow You - Imagine Dragons
+4. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
 

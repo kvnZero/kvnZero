@@ -6,7 +6,7 @@
 
 0. 🌈Follow You - Imagine Dragons
 1. 🌈Anyone - Justin Bieber
-2. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
-3. 🌈Run For Cover - Blitz Kids
-4. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
+2. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
+3. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
+4. 🌈What You Know Bout Love - Pop Smoke
 

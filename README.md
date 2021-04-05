@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
-1. 🌈What You Know Bout Love - Pop Smoke
-2. 🌈Follow You - Imagine Dragons
+0. 🌈What You Know Bout Love - Pop Smoke
+1. 🌈Follow You - Imagine Dragons
+2. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
 3. 🌈Anyone - Justin Bieber
-4. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
+4. 🌈Best Friend - Rex Orange County
 

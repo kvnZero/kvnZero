@@ -6,7 +6,7 @@
 
 0. 🌈Follow You - Imagine Dragons
 1. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
-2. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
-3. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
-4. 🌈What You Know Bout Love - Pop Smoke
+2. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
+3. 🌈What You Know Bout Love - Pop Smoke
+4. 🌈Put Your Records On - Ritt Momney
 

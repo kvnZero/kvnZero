@@ -7,6 +7,6 @@
 0. 🌈Put Your Records On - Ritt Momney
 1. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
 2. 🌈my ex's best friend - Machine Gun Kelly/Blackbear
-3. 🌈Never Not - Lauv
-4. 🌈Follow You - Imagine Dragons
+3. 🌈Follow You - Imagine Dragons
+4. 🌈Anyone - Justin Bieber
 

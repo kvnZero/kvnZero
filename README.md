@@ -6,7 +6,7 @@
 
 0. 🌈Put Your Records On - Ritt Momney
 1. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
-2. 🌈Anyone - Justin Bieber
-3. 🌈What You Know Bout Love - Pop Smoke
-4. 🌈Save Your Tears - The Weeknd
+2. 🌈What You Know Bout Love - Pop Smoke
+3. 🌈Follow You - Imagine Dragons
+4. 🌈Anyone - Justin Bieber
 

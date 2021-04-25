@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Put Your Records On - Ritt Momney
-1. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
-2. 🌈What You Know Bout Love - Pop Smoke
+0. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
+1. 🌈What You Know Bout Love - Pop Smoke
+2. 🌈Put Your Records On - Ritt Momney
 3. 🌈Follow You - Imagine Dragons
 4. 🌈Anyone - Justin Bieber
 

@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Put Your Records On - Ritt Momney
-1. 🌈What You Know Bout Love - Pop Smoke
-2. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
-3. 🌈MONTERO (Call Me By Your Name) - Lil Nas X
-4. 🌈Follow You - Imagine Dragons
+0. 🌈浪 - 许嵩
+1. 🌈Put Your Records On - Ritt Momney
+2. 🌈What You Know Bout Love - Pop Smoke
+3. 🌈The Way I Am - Charlie Puth
+4. 🌈简单爱 - 周杰伦
 

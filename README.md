@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈浪 - 许嵩
-1. 🌈Put Your Records On - Ritt Momney
+1. 🌈Anyone - Justin Bieber
 2. 🌈What You Know Bout Love - Pop Smoke
-3. 🌈The Way I Am - Charlie Puth
-4. 🌈简单爱 - 周杰伦
+3. 🌈Put Your Records On - Ritt Momney
+4. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
 

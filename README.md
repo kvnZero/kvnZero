@@ -6,7 +6,7 @@
 
 0. 🌈浪 - 许嵩
 1. 🌈Anyone - Justin Bieber
-2. 🌈What You Know Bout Love - Pop Smoke
-3. 🌈Put Your Records On - Ritt Momney
-4. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
+2. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
+3. 🌈What You Know Bout Love - Pop Smoke
+4. 🌈Put Your Records On - Ritt Momney
 

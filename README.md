@@ -6,7 +6,7 @@
 
 0. 🌈乌鸦 - 许嵩
 1. 🌈What You Know Bout Love - Pop Smoke
-2. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
-3. 🌈Run For Cover - Blitz Kids
-4. 🌈Follow You - Imagine Dragons
+2. 🌈Save Your Tears - The Weeknd
+3. 🌈Winnebago - Gryffin/Quinn XCII/Daniel Wilson
+4. 🌈Best Friend - Rex Orange County
 

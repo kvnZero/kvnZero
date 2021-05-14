@@ -7,6 +7,6 @@
 0. 🌈假摔 - 许嵩
 1. 🌈乌鸦 - 许嵩
 2. 🌈科幻 - 许嵩
-3. 🌈Leave The Door Open - Bruno Mars/Anderson .Paak/Silk Sonic
-4. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
+3. 🌈庞贝 - 许嵩
+4. 🌈Put Your Records On - Ritt Momney
 

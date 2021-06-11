@@ -7,6 +7,6 @@
 0. 🌈Wonder - Shawn Mendes
 1. 🌈三尺 - 许嵩
 2. 🌈WITHOUT YOU - The Kid LAROI
-3. 🌈庞贝 - 许嵩
-4. 🌈Telling Stories - Neck Deep
+3. 🌈Telling Stories - Neck Deep
+4. 🌈庞贝 - 许嵩
 

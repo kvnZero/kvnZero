@@ -7,6 +7,6 @@
 0. 🌈Is It Just Me? - Sasha Sloan/Charlie Puth
 1. 🌈Yummy - Justin Bieber
 2. 🌈Sikka Takin' the Hardway - New Beat Fund
-3. 🌈Wonder - Shawn Mendes
-4. 🌈Heat Waves - Glass Animals
+3. 🌈江南 - 林俊杰
+4. 🌈18 - Jeremy Zucker
 

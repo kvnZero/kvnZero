@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Is It Just Me? - Sasha Sloan/Charlie Puth
-1. 🌈18 - Jeremy Zucker
+0. 🌈18 - Jeremy Zucker
+1. 🌈假摔 - 许嵩
 2. 🌈Sikka Takin' the Hardway - New Beat Fund
-3. 🌈假摔 - 许嵩
+3. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
 4. 🌈WITHOUT YOU - The Kid LAROI
 

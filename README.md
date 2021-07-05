@@ -7,6 +7,6 @@
 0. 🌈18 - Jeremy Zucker
 1. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
 2. 🌈Sikka Takin' the Hardway - New Beat Fund
-3. 🌈假摔 - 许嵩
-4. 🌈Wonder - Shawn Mendes
+3. 🌈Wonder - Shawn Mendes
+4. 🌈庞贝 - 许嵩
 

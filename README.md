@@ -7,6 +7,6 @@
 0. 🌈18 - Jeremy Zucker
 1. 🌈Sikka Takin' the Hardway - New Beat Fund
 2. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-3. 🌈Wonder - Shawn Mendes
-4. 🌈Heat Waves - Glass Animals
+3. 🌈Tattoos Together - Lauv
+4. 🌈Follow You - Imagine Dragons
 

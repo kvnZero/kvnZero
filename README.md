@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈18 - Jeremy Zucker
-1. 🌈Heat Waves - Glass Animals
-2. 🌈Sikka Takin' the Hardway - New Beat Fund
-3. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-4. 🌈Follow You - Imagine Dragons
+1. 🌈Follow You - Imagine Dragons
+2. 🌈Heat Waves - Glass Animals
+3. 🌈The Cut That Always Bleeds - Conan Gray
+4. 🌈Best Friend - Rex Orange County
 

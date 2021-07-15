@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-1. 🌈18 - Jeremy Zucker
-2. 🌈Heat Waves - Glass Animals
-3. 🌈Sikka Takin' the Hardway - New Beat Fund
-4. 🌈Leave The Door Open - Bruno Mars/Anderson Paak/Silk Sonic
+0. 🌈18 - Jeremy Zucker
+1. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
+2. 🌈Leave The Door Open - Bruno Mars/Anderson Paak/Silk Sonic
+3. 🌈Heat Waves - Glass Animals
+4. 🌈Best Friend - Rex Orange County
 

@@ -6,7 +6,7 @@
 
 0. 🌈18 - Jeremy Zucker
 1. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-2. 🌈Leave The Door Open - Bruno Mars/Anderson Paak/Silk Sonic
-3. 🌈Heat Waves - Glass Animals
-4. 🌈Best Friend - Rex Orange County
+2. 🌈三尺 - 许嵩
+3. 🌈Follow You - Imagine Dragons
+4. 🌈Heat Waves - Glass Animals
 

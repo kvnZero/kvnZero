@@ -6,7 +6,7 @@
 
 0. 🌈18 - Jeremy Zucker
 1. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-2. 🌈三尺 - 许嵩
-3. 🌈Follow You - Imagine Dragons
-4. 🌈Heat Waves - Glass Animals
+2. 🌈Heat Waves - Glass Animals
+3. 🌈Telling Stories - Neck Deep
+4. 🌈Sikka Takin' the Hardway - New Beat Fund
 

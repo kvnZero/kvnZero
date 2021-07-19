@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈18 - Jeremy Zucker
-1. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-2. 🌈Heat Waves - Glass Animals
-3. 🌈Telling Stories - Neck Deep
-4. 🌈Sikka Takin' the Hardway - New Beat Fund
+0. 🌈Wrecked - Imagine Dragons
+1. 🌈18 - Jeremy Zucker
+2. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
+3. 🌈庞贝 - 许嵩
+4. 🌈三尺 - 许嵩
 

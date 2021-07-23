@@ -6,7 +6,7 @@
 
 0. 🌈Wrecked - Imagine Dragons
 1. 🌈18 - Jeremy Zucker
-2. 🌈庞贝 - 许嵩
-3. 🌈三尺 - 许嵩
-4. 🌈假摔 - 许嵩
+2. 🌈Sikka Takin' the Hardway - New Beat Fund
+3. 🌈dancing in the kitchen - LANY
+4. 🌈庞贝 - 许嵩
 

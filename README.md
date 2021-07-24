@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Wrecked - Imagine Dragons
-1. 🌈18 - Jeremy Zucker
-2. 🌈Sikka Takin' the Hardway - New Beat Fund
-3. 🌈dancing in the kitchen - LANY
-4. 🌈庞贝 - 许嵩
+1. 🌈dancing in the kitchen - LANY
+2. 🌈18 - Jeremy Zucker
+3. 🌈No Grass Today - AJR
+4. 🌈HONEST - Jeremy Zucker
 

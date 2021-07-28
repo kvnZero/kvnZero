@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Wrecked - Imagine Dragons
-1. 🌈dancing in the kitchen - LANY
-2. 🌈18 - Jeremy Zucker
-3. 🌈Heat Waves - Glass Animals
-4. 🌈Sikka Takin' the Hardway - New Beat Fund
+0. 🌈dna [demo] - LANY
+1. 🌈Wrecked - Imagine Dragons
+2. 🌈dancing in the kitchen - LANY
+3. 🌈18 - Jeremy Zucker
+4. 🌈Heat Waves - Glass Animals
 

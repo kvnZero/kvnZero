@@ -6,7 +6,7 @@
 
 0. 🌈dna [demo] - LANY
 1. 🌈Wrecked - Imagine Dragons
-2. 🌈dancing in the kitchen - LANY
-3. 🌈18 - Jeremy Zucker
-4. 🌈Heat Waves - Glass Animals
+2. 🌈18 - Jeremy Zucker
+3. 🌈Playinwitme (feat. Kehlani) - KYLE/Kehlani
+4. 🌈Sikka Takin' the Hardway - New Beat Fund
 

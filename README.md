@@ -7,6 +7,6 @@
 0. 🌈dna [demo] - LANY
 1. 🌈Sikka Takin' the Hardway - New Beat Fund
 2. 🌈Wrecked - Imagine Dragons
-3. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
-4. 🌈18 - Jeremy Zucker
+3. 🌈Playinwitme (feat. Kehlani) - KYLE/Kehlani
+4. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
 

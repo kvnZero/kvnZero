@@ -7,6 +7,6 @@
 0. 🌈dna [demo] - LANY
 1. 🌈Sikka Takin' the Hardway - New Beat Fund
 2. 🌈Wrecked - Imagine Dragons
-3. 🌈Playinwitme (feat. Kehlani) - KYLE/Kehlani
-4. 🌈18 - Jeremy Zucker
+3. 🌈Save Your Tears - The Weeknd
+4. 🌈Panini - Lil Nas X
 

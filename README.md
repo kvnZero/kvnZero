@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈dna [demo] - LANY
-1. 🌈Sikka Takin' the Hardway - New Beat Fund
-2. 🌈Wrecked - Imagine Dragons
-3. 🌈Save Your Tears - The Weeknd
-4. 🌈Panini - Lil Nas X
+1. 🌈Wrecked - Imagine Dragons
+2. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
+3. 🌈Panini - Lil Nas X
+4. 🌈Playinwitme (feat. Kehlani) - KYLE/Kehlani
 

@@ -6,7 +6,7 @@
 
 0. 🌈dna [demo] - LANY
 1. 🌈Wrecked - Imagine Dragons
-2. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
-3. 🌈Panini - Lil Nas X
-4. 🌈Playinwitme (feat. Kehlani) - KYLE/Kehlani
+2. 🌈Sikka Takin' the Hardway - New Beat Fund
+3. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
+4. 🌈18 - Jeremy Zucker
 

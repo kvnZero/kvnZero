@@ -7,6 +7,6 @@
 0. 🌈dna [demo] - LANY
 1. 🌈Wrecked - Imagine Dragons
 2. 🌈Sikka Takin' the Hardway - New Beat Fund
-3. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
-4. 🌈18 - Jeremy Zucker
+3. 🌈18 - Jeremy Zucker
+4. 🌈Cat Cafe - Shoffy
 

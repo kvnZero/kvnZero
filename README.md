@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈dna [demo] - LANY
-1. 🌈Sikka Takin' the Hardway - New Beat Fund
-2. 🌈Wrecked - Imagine Dragons
-3. 🌈Cat Cafe - Shoffy
-4. 🌈18 - Jeremy Zucker
+1. 🌈Cat Cafe - Shoffy
+2. 🌈Sikka Takin' the Hardway - New Beat Fund
+3. 🌈Sky Hooks - Lil Dicky
+4. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
 

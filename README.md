@@ -7,6 +7,6 @@
 0. 🌈Cat Cafe - Shoffy
 1. 🌈Sikka Takin' the Hardway - New Beat Fund
 2. 🌈dna [demo] - LANY
-3. 🌈18 - Jeremy Zucker
-4. 🌈Beautiful Mistakes - Maroon 5/Megan thee Stallion
+3. 🌈STAY - The Kid LAROI/Justin Bieber
+4. 🌈18 - Jeremy Zucker
 

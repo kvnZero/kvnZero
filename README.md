@@ -6,7 +6,7 @@
 
 0. 🌈STAY - The Kid LAROI/Justin Bieber
 1. 🌈six speed - ROLE MODEL
-2. 🌈I'm Corny - Tom MacDonald
-3. 🌈dna [demo] - LANY
-4. 🌈Cat Cafe - Shoffy
+2. 🌈dna [demo] - LANY
+3. 🌈Cat Cafe - Shoffy
+4. 🌈I'm Corny - Tom MacDonald
 

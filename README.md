@@ -6,7 +6,7 @@
 
 0. 🌈dna [demo] - LANY
 1. 🌈STAY - The Kid LAROI/Justin Bieber
-2. 🌈Cat Cafe - Shoffy
-3. 🌈I'm Corny - Tom MacDonald
-4. 🌈Marmalade - Macklemore/Lil Yachty
+2. 🌈Marmalade - Macklemore/Lil Yachty
+3. 🌈up to me - LANY
+4. 🌈Cat Cafe - Shoffy
 

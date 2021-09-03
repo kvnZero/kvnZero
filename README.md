@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈dna [demo] - LANY
-1. 🌈STAY - The Kid LAROI/Justin Bieber
-2. 🌈up to me - LANY
-3. 🌈Save Your Tears - The Weeknd
-4. 🌈Chasing Fire - Lauv
+0. 🌈STAY - The Kid LAROI/Justin Bieber
+1. 🌈Save Your Tears - The Weeknd
+2. 🌈Chasing Fire - Lauv
+3. 🌈Friends - Justin Bieber/BloodPop
+4. 🌈Home to Mama - Justin Bieber/Cody Simpson
 

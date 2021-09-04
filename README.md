@@ -6,7 +6,7 @@
 
 0. 🌈STAY - The Kid LAROI/Justin Bieber
 1. 🌈Save Your Tears - The Weeknd
-2. 🌈Chasing Fire - Lauv
-3. 🌈Friends - Justin Bieber/BloodPop
-4. 🌈Home to Mama - Justin Bieber/Cody Simpson
+2. 🌈浪 - 许嵩
+3. 🌈Chasing Fire - Lauv
+4. 🌈Friends - Justin Bieber/BloodPop
 

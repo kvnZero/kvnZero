@@ -7,6 +7,6 @@
 0. 🌈Monday - Imagine Dragons
 1. 🌈Lonely - Imagine Dragons
 2. 🌈My Life - Imagine Dragons
-3. 🌈#1 - Imagine Dragons
-4. 🌈Wrecked - Imagine Dragons
+3. 🌈STAY - The Kid LAROI/Justin Bieber
+4. 🌈Cutthroat - Imagine Dragons
 

@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Way Less Sad - AJR
-1. 🌈Cat Cafe - Shoffy
-2. 🌈I'm Corny - Tom MacDonald
-3. 🌈Sikka Takin' the Hardway - New Beat Fund
-4. 🌈for him (Live) - Troye Sivan
+0. 🌈for him (Live) - Troye Sivan
+1. 🌈Wrecked - Imagine Dragons
+2. 🌈Way Less Sad - AJR
+3. 🌈Cat Cafe - Shoffy
+4. 🌈I'm Corny - Tom MacDonald
 

@@ -6,7 +6,7 @@
 
 0. 🌈Sikka Takin' the Hardway - New Beat Fund
 1. 🌈Wrecked - Imagine Dragons
-2. 🌈Way Less Sad - AJR
-3. 🌈Cat Cafe - Shoffy
-4. 🌈I'm Corny - Tom MacDonald
+2. 🌈Cat Cafe - Shoffy
+3. 🌈I'm Corny - Tom MacDonald
+4. 🌈Heat Waves - Glass Animals
 

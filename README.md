@@ -8,5 +8,5 @@
 1. 🌈THE ART OF REALIZATION - Lil Nas X
 2. 🌈THATS WHAT I WANT - Lil Nas X
 3. 🌈INDUSTRY BABY - Lil Nas X/Jack Harlow
-4. 🌈ONE OF ME - Lil Nas X/Elton John
+4. 🌈VOID - Lil Nas X
 

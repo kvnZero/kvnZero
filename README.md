@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈for him (Live) - Troye Sivan
-1. 🌈VOID - Lil Nas X
-2. 🌈SCOOP - Lil Nas X/Doja Cat
-3. 🌈THE ART OF REALIZATION - Lil Nas X
-4. 🌈THATS WHAT I WANT - Lil Nas X
+1. 🌈Heather - Conan Gray
+2. 🌈Wassuh - AQVOL
+3. 🌈Leave The Door Open - Bruno Mars/Anderson Paak/Silk Sonic
+4. 🌈认错 - 许嵩
 

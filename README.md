@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Wassuh - AQVOL
-1. 🌈Lie - NF
-2. 🌈for him (Live) - Troye Sivan
-3. 🌈STAY - The Kid LAROI/Justin Bieber
-4. 🌈I'm Corny - Tom MacDonald
+0. 🌈STAY - The Kid LAROI/Justin Bieber
+1. 🌈Heather - Conan Gray
+2. 🌈Girl - Alexander 23
+3. 🌈Wassuh - AQVOL
+4. 🌈Lie - NF
 

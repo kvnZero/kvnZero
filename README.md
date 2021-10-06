@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈dna [demo] - LANY
-1. 🌈Sikka Takin' the Hardway - New Beat Fund
-2. 🌈Wrecked - Imagine Dragons
-3. 🌈18 - Jeremy Zucker
-4. 🌈1-800-273-8255 - Logic/Alessia Cara/Khalid
+1. 🌈18 - Jeremy Zucker
+2. 🌈Sikka Takin' the Hardway - New Beat Fund
+3. 🌈AM I DREAMING - Lil Nas X/Miley Cyrus
+4. 🌈Wrecked - Imagine Dragons
 

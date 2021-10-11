@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈for him (Live) - Troye Sivan
-1. 🌈dna [demo] - LANY
-2. 🌈Wrecked - Imagine Dragons
-3. 🌈18 - Jeremy Zucker
-4. 🌈STAY - The Kid LAROI/Justin Bieber
+0. 🌈Try Again - DallasK/Lauv
+1. 🌈Boomerang - Imagine Dragons
+2. 🌈Cool Out - Imagine Dragons
+3. 🌈Machine - Imagine Dragons
+4. 🌈Natural - Imagine Dragons
 

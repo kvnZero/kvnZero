@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Try Again - DallasK/Lauv
-1. 🌈Boomerang - Imagine Dragons
-2. 🌈Cool Out - Imagine Dragons
-3. 🌈Machine - Imagine Dragons
-4. 🌈Natural - Imagine Dragons
+1. 🌈u mad - bbno$
+2. 🌈Boomerang - Imagine Dragons
+3. 🌈Cool Out - Imagine Dragons
+4. 🌈Machine - Imagine Dragons
 

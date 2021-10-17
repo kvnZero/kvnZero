@@ -6,7 +6,7 @@
 
 0. 🌈Try Again - DallasK/Lauv
 1. 🌈u mad - bbno$
-2. 🌈Boomerang - Imagine Dragons
-3. 🌈Cool Out - Imagine Dragons
-4. 🌈Machine - Imagine Dragons
+2. 🌈check up - bbno$
+3. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
+4. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
 

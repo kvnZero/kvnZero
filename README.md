@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Try Again - DallasK/Lauv
-1. 🌈u mad - bbno$
-2. 🌈check up - bbno$
-3. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
-4. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
+0. 🌈check up - bbno$
+1. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
+2. 🌈u mad - bbno$
+3. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
+4. 🌈i remember - bbno$
 

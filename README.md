@@ -7,6 +7,6 @@
 0. 🌈check up - bbno$
 1. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
 2. 🌈u mad - bbno$
-3. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
-4. 🌈i remember - bbno$
+3. 🌈Heat Waves - Glass Animals
+4. 🌈Checklist (feat. Chromeo) - MAX/Chromeo
 

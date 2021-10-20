@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈check up - bbno$
-1. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
-2. 🌈u mad - bbno$
-3. 🌈Heat Waves - Glass Animals
-4. 🌈Checklist (feat. Chromeo) - MAX/Chromeo
+0. 🌈i remember - bbno$
+1. 🌈check up - bbno$
+2. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
+3. 🌈u mad - bbno$
+4. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
 

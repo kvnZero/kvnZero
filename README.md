@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈i remember - bbno$
-1. 🌈u mad - bbno$
-2. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
-3. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
-4. 🌈tonight we ****in’ party - bbno$
+0. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
+1. 🌈i remember - bbno$
+2. 🌈u mad - bbno$
+3. 🌈tonight we ****in’ party - bbno$
+4. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
 

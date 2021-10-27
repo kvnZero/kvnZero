@@ -8,5 +8,5 @@
 1. 🌈wussup (feat. Yung Gravy) - bbno$/Yung Gravy
 2. 🌈u mad - bbno$
 3. 🌈tonight we ****in’ party - bbno$
-4. 🌈2 time zones (feat. Night Lovell) - bbno$/Night Lovell
+4. 🌈for him (Live) - Troye Sivan
 

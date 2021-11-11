@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈i remember - bbno$
-1. 🌈Present - Khalid
-2. 🌈Love You More (with Nate Ruess, Gunna & Jeff Bhasker) - Young Thug/Gunna/Jeff Bhasker/Nate Ruess
-3. 🌈Icy Hot (with Doja Cat) - Young Thug/Doja Cat
-4. 🌈dna [demo] - LANY
+1. 🌈灰色头像 - 许嵩
+2. 🌈I'm Corny - Tom MacDonald
+3. 🌈Girl - Alexander 23
+4. 🌈I'm Sorry - Tom MacDonald
 

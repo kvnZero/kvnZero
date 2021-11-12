@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈i remember - bbno$
-1. 🌈灰色头像 - 许嵩
-2. 🌈I'm Corny - Tom MacDonald
-3. 🌈Girl - Alexander 23
-4. 🌈I'm Sorry - Tom MacDonald
+1. 🌈I'm Corny - Tom MacDonald
+2. 🌈灰色头像 - 许嵩
+3. 🌈Heat Waves - Glass Animals
+4. 🌈Girl - Alexander 23
 

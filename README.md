@@ -6,7 +6,7 @@
 
 0. 🌈i remember - bbno$
 1. 🌈Heat Waves - Glass Animals
-2. 🌈灰色头像 - 许嵩
-3. 🌈Mood - 24kGoldn/iann dior
-4. 🌈Girl - Alexander 23
+2. 🌈for him (Live) - Troye Sivan
+3. 🌈dna [demo] - LANY
+4. 🌈STAY - The Kid LAROI/Justin Bieber
 

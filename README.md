@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Heat Waves - Glass Animals
-1. 🌈i remember - bbno$
-2. 🌈dna [demo] - LANY
-3. 🌈I'm Corny - Tom MacDonald
-4. 🌈Mood - 24kGoldn/iann dior
+0. 🌈dna [demo] - LANY
+1. 🌈Summer on You - PRETTYMUCH
+2. 🌈When I Look Into Your Eyes - khai dreams/lanie
+3. 🌈Sikka Takin' the Hardway - New Beat Fund
+4. 🌈for him (Live) - Troye Sivan
 

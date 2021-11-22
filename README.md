@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈dna [demo] - LANY
-1. 🌈Summer on You - PRETTYMUCH
-2. 🌈When I Look Into Your Eyes - khai dreams/lanie
-3. 🌈Sikka Takin' the Hardway - New Beat Fund
-4. 🌈for him (Live) - Troye Sivan
+0. 🌈INDUSTRY BABY - Lil Nas X/Jack Harlow
+1. 🌈dna [demo] - LANY
+2. 🌈Summer on You - PRETTYMUCH
+3. 🌈When I Look Into Your Eyes - khai dreams/lanie
+4. 🌈Sikka Takin' the Hardway - New Beat Fund
 

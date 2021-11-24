@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈INDUSTRY BABY - Lil Nas X/Jack Harlow
-1. 🌈Summer on You - PRETTYMUCH
-2. 🌈When I Look Into Your Eyes - khai dreams/lanie
-3. 🌈Hopeless Case - Roam
-4. 🌈Gold Steps - Neck Deep
+1. 🌈When I Look Into Your Eyes - khai dreams/lanie
+2. 🌈INDUSTRY BABY (EXTENDED) - Lil Nas X/Jack Harlow
+3. 🌈i remember - bbno$
+4. 🌈AM I DREAMING - Lil Nas X/Miley Cyrus
 

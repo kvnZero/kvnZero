@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈thoughts and chemicals - San Holo/American Football
-1. 🌈Take Yourself Home - Troye Sivan
-2. 🌈柳成荫 - 许嵩
-3. 🌈重复重复 - 许嵩
-4. 🌈浪 - 许嵩
+0. 🌈THATS WHAT I WANT - Lil Nas X
+1. 🌈TALES OF DOMINICA - Lil Nas X
+2. 🌈thoughts and chemicals - San Holo/American Football
+3. 🌈庞贝 - 许嵩
+4. 🌈三尺 - 许嵩
 

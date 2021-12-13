@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Patient - Charlie Puth
-1. 🌈LA Girls - Charlie Puth
-2. 🌈The Way I Am - Charlie Puth
-3. 🌈How Long - Charlie Puth
-4. 🌈Attention - Charlie Puth
+0. 🌈INDUSTRY BABY - Lil Nas X/Jack Harlow
+1. 🌈DEAD RIGHT NOW - Lil Nas X
+2. 🌈take a trip - ceo@business.net/Jungle Bobby/bbno$/Lentra
+3. 🌈Distance - Ollie
+4. 🌈somehow - Demxntia
 

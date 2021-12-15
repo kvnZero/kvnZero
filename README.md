@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈INDUSTRY BABY - Lil Nas X/Jack Harlow
-1. 🌈DEAD RIGHT NOW - Lil Nas X
-2. 🌈take a trip - ceo@business.net/Jungle Bobby/bbno$/Lentra
-3. 🌈Distance - Ollie
-4. 🌈乌鸦 - 许嵩
+0. 🌈假摔 - 许嵩
+1. 🌈乌鸦 - 许嵩
+2. 🌈有何不可 - 许嵩
+3. 🌈多余的解释 - 许嵩
+4. 🌈如果当时 - 许嵩
 

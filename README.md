@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈灰色头像 - 许嵩
-1. 🌈明智之举 - 许嵩
-2. 🌈如约而至 - 许嵩
-3. 🌈大千世界 - 许嵩
-4. 🌈今年勇 - 许嵩
+1. 🌈如约而至 - 许嵩
+2. 🌈老古董 - 许嵩
+3. 🌈明明 - 周兴哲
+4. 🌈Our Own Heaven - Masetti
 

@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈如约而至 - 许嵩
-1. 🌈老古董 - 许嵩
-2. 🌈明明 - 周兴哲
-3. 🌈Our Own Heaven - Masetti
-4. 🌈dna [demo] - LANY
+0. 🌈明明 - 周兴哲
+1. 🌈Our Own Heaven - Masetti
+2. 🌈dna [demo] - LANY
+3. 🌈晚安 - 颜人中
+4. 🌈如约而至 - 许嵩
 

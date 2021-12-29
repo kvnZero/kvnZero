@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈i remember - bbno$
-1. 🌈庞贝 - 许嵩
-2. 🌈乌鸦 - 许嵩
-3. 🌈Our Own Heaven - Masetti
-4. 🌈dna [demo] - LANY
+0. 🌈庞贝 - 许嵩
+1. 🌈假摔 - 许嵩
+2. 🌈i remember - bbno$
+3. 🌈STAY - The Kid LAROI/Justin Bieber
+4. 🌈三尺 - 许嵩
 

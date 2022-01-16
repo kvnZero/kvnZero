@@ -6,7 +6,7 @@
 
 0. 🌈旅行的意义(TRAVEL IS MEANINGFUL) - 陈绮贞
 1. 🌈私奔到月球 - 陈绮贞/五月天
-2. 🌈我喜欢上你时的内心活动 - 陈绮贞
-3. 🌈Not Angry - Chris James
-4. 🌈如约而至 - 许嵩
+2. 🌈如约而至 - 许嵩
+3. 🌈我喜欢上你时的内心活动 - 陈绮贞
+4. 🌈Not Angry - Chris James
 

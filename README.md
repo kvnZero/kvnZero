@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Trouble (from ‘Three Months’) - Troye Sivan/Jay Som
-1. 🌈Yummy - Justin Bieber
+0. 🌈Yummy - Justin Bieber
+1. 🌈留香 - 许嵩
 2. 🌈E.T.A. - Justin Bieber
 3. 🌈At Least For Now - Justin Bieber
-4. 🌈留香 - 许嵩
+4. 🌈明智之举 - 许嵩
 

@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Yummy - Justin Bieber
-1. 🌈明智之举 - 许嵩
-2. 🌈留香 - 许嵩
-3. 🌈E.T.A. - Justin Bieber
-4. 🌈At Least For Now - Justin Bieber
+0. 🌈明智之举 - 许嵩
+1. 🌈留香 - 许嵩
+2. 🌈Yummy - Justin Bieber
+3. 🌈黄安-新鸳鸯蝴蝶梦（Diy remix） - Diy
+4. 🌈平行宇宙 - 许嵩
 

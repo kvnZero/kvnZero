@@ -7,6 +7,6 @@
 0. 🌈水星记 - 郭顶
 1. 🌈平行宇宙 - 许嵩
 2. 🌈太聪明 - 陈绮贞
-3. 🌈如约而至 - 许嵩
-4. 🌈Hello, Morning - Kizuna AI
+3. 🌈Hello, Morning - Kizuna AI
+4. 🌈如约而至 - 许嵩
 

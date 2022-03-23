@@ -4,9 +4,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈太聪明 - 陈绮贞
-1. 🌈Hello, Morning - Kizuna AI
-2. 🌈水星记 - 郭顶
-3. 🌈平行宇宙 - 许嵩
-4. 🌈明智之举 - 许嵩
+0. 🌈Hello, Morning - Kizuna AI
+1. 🌈水星记 - 郭顶
+2. 🌈平行宇宙 - 许嵩
+3. 🌈散场电影 - 许嵩
+4. 🌈麻雀 - 李荣浩
 

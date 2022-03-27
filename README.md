@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈平行宇宙 - 许嵩
-1. 🌈戒烟 - 李荣浩
-2. 🌈水星记 - 郭顶
-3. 🌈爸爸妈妈 - 李荣浩
-4. 🌈麻雀 - 李荣浩
+1. 🌈如约而至 - 许嵩
+2. 🌈散场电影 - 许嵩
+3. 🌈INDUSTRY BABY - Lil Nas X/Jack Harlow
+4. 🌈浪 - 许嵩
 
